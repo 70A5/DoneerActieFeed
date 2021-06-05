@@ -1,8 +1,6 @@
-<!-- Begin doneeractie donatiemodule -->
 <div id="doneeractie_donatiemodule"></div>
 <script src="https://www.doneeractie.nl/widgets/js/main-window.js"></script>
-<script>var donationActionID='51706';var donationCount='0';</script>
+<script>var donationActionID='00000';var donationCount='0';</script>
 <script type="text/javascript" src="https://www.doneeractie.nl/widgets/donatiemodule.js"></script>
 <a href="https://www.doneeractie.nl" title="Geld inzamelen" style="position:absolute;margin-left:-3000px;">Geld inzamelen | Doneeractie.nl</a>
 <script>setTimeout(function(){ iFrameResize(); }, 1000);</script>
-<!-- Einde doneeractie donatiemodule -->
